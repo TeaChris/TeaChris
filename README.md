@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Boluwatife</h1>
+<h1 align="center">Hi 👋, I'm Bermuda</h1>
 <h3 align="center">Frontend Alchemist: Blending Code and Creativity for Digital Magic</h3>
 <img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-hello-world-c-programming-programming-gif-21075258">
 
