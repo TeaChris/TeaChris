@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teachris&label=Profile%20views&color=0e75b6&style=flat" alt="teachris" /> </p>
 
-- 🔭 I’m currently working on **A digital trading app**
 - 📫 How to reach me **olasunkanmiboluwatife110@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
